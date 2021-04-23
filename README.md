@@ -7,4 +7,4 @@ How to build and run the project:
    - npm i jest;
    - npm i playwright;
 6. Then run the tests using the code:
-   - npm run test.  
+   - npm run test  
